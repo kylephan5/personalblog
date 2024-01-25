@@ -1,0 +1,29 @@
+* {
+    background-color: green;
+}
+
+.blogs {
+    align-items: center;
+    text-align: center;
+}
+
+.blog1, .blog2, .blog3 {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 50px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+h3, p {
+    background-color: white;
+
+}
